@@ -1,3 +1,4 @@
+![logo](https://github.com/amolkapadi/amolkapadi/blob/main/Amol%20Kapadi%20github%20wallpaper.png)
 <h1 align="center">Hi 👋, I'm Amol A. Kapadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
